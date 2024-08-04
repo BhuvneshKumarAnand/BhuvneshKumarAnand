@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvneshkumaranand&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvneshkumaranand" /> </p>
 
-- 🔭 I’m currently working on **HCLTech**
+- 🔭 I’m currently working in **Samarth eGOV**
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m proficient in **PHP, React, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhuvneshKumarAnand?tab=repositories](https://github.com/BhuvneshKumarAnand?tab=repositories)
 
